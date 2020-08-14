@@ -1,0 +1,84 @@
+*{
+  
+    background-color: #0F2375;
+}
+div.juego{
+    width: 560px;
+    border: 0px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+div.dados{
+    width: 115px;
+    position: absolute;
+    left: 600px;
+    top: 40px;
+
+}
+div.dado{
+	width:32px;
+	margin:5px;
+}
+.boton{
+    display: block;
+    background-color: white;
+    margin-left: 15px;
+}
+div.pregunta{
+    border-radius: 20px;
+    background-color: white;
+    width: 550px;
+    height: 200px;
+    position: absolute;
+    top: 40px;
+    left: 750px;
+}
+form.equipos{
+    color: white;
+    width: 270px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+    left: 590px;
+}
+div.contorno{
+    
+    width: 52.5px;
+    height: 52.5px;
+    margin-left: 12px;
+    margin-top: -68.5px;
+    position: relative;
+    background-color: #12312300;
+}
+div.azul{
+    width: 52.5px;
+    height: 52.5px;
+    margin-left: 12px;
+    margin-top: -52px;
+    position: relative;
+    background-color: blue;
+}
+div.rojo{
+    width: 52.5px;
+    height: 52.5px;
+    margin-left: 12px;
+    margin-top: -52px;
+    position: relative;
+    background-color: red;
+}
+div.verde{
+    width: 52.5px;
+    height: 52.5px;
+    margin-left: 12px;
+    margin-top: -52px;
+    position: relative;
+    background-color: green;
+}
+div.amarillo{
+    width: 52.5px;
+    height: 52.5px;
+    margin-left: 12px;
+    margin-top: -52px;
+    position: relative;
+    background-color: yellow;
+}
