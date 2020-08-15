@@ -1,5 +1,5 @@
 *{
-  
+    /* border: solid black; */
     background-color: #0F2375;
 }
 div.juego{
@@ -7,6 +7,7 @@ div.juego{
     border: 0px;
     margin-left: 20px;
     margin-top: 30px;
+    position: absolute;
 }
 div.dados{
     width: 115px;
@@ -55,7 +56,7 @@ div.azul{
     height: 52.5px;
     margin-left: 12px;
     margin-top: -52px;
-    position: relative;
+    position: absolute;
     background-color: blue;
 }
 div.rojo{
@@ -63,7 +64,7 @@ div.rojo{
     height: 52.5px;
     margin-left: 12px;
     margin-top: -52px;
-    position: relative;
+    position: absolute;
     background-color: red;
 }
 div.verde{
@@ -71,7 +72,7 @@ div.verde{
     height: 52.5px;
     margin-left: 12px;
     margin-top: -52px;
-    position: relative;
+    position: absolute;
     background-color: green;
 }
 div.amarillo{
@@ -79,6 +80,6 @@ div.amarillo{
     height: 52.5px;
     margin-left: 12px;
     margin-top: -52px;
-    position: relative;
+    position: absolute;
     background-color: yellow;
 }
