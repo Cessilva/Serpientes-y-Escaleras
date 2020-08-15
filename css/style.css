@@ -83,3 +83,43 @@ div.amarillo{
     position: absolute;
     background-color: yellow;
 }
+
+
+/* botones personalizados */
+div.botones{
+    width: 550px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+    left: 1050px;
+}
+
+.boton_personalizado_incorrecto{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #cf1020;
+    border-radius: 6px;
+    border: 2px solid #a2282a;
+  }
+  .boton_personalizado_incorrecto:hover{
+    color: #de1f21;
+    background-color: #ffffff;
+  }
+
+  .boton_personalizado_correcto{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #00b347;
+    border-radius: 6px;
+    border: 2px solid #00722e;
+  }
+  .boton_personalizado_correcto:hover{
+    color: #4c9141;
+    background-color: #ffffff;
+  }
