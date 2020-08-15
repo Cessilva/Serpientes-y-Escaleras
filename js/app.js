@@ -5,6 +5,8 @@ var posEqu2=0;
 var posEqu3=0;
 var posEqu4=0;
 var textoglobal;
+var correcto;
+var incorrecto;
 
 function rollDice(){
     var die1 = document.getElementById("die1");
@@ -96,7 +98,6 @@ function navegacion(equipo,posicion){
       document.getElementById(equipo).style.marginLeft= String(lado*cambio2+marginLeft)+"px";
     }
   }
-
   //Para subir o bajar 
   if (posicion<=10){
     cambio=0;
@@ -105,9 +106,12 @@ function navegacion(equipo,posicion){
     cambio=parseInt(String(posicion).substring(0, 1));
     document.getElementById(equipo).style.marginTop= String(marginTop-(lado*cambio))+"px";
   }
-
-  
-    
-  
-
+}
+function esCorrecto(){
+  correcto=1;
+  incorrecto=0;
+}
+function esIncorrecto(){
+  correcto=0;
+  incorrecto=1;
 }

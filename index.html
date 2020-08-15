@@ -23,14 +23,14 @@
     </div>
     <div class="dados">
         <img id="die1" class="die1" src="imgs/Alea_1.png" alt="Dado">
-        <button class="boton" onclick="rollDice()">Tira el Dado</button>
+        <center><button class="boton_personalizado" onclick="rollDice()">Tira !</button></center>
     </div>    
     <div id="pregunta" class="pregunta"> 
         
     </div>
     <div class="botones"> 
-        <button class="boton_personalizado_correcto" onclick="rollDice()">Correcto</button>
-        <button class="boton_personalizado_incorrecto" onclick="rollDice()">Incorrecto   </button>
+        <button class="boton_personalizado_correcto" onclick="esCorrecto()">Correcto</button>
+        <button class="boton_personalizado_incorrecto" onclick="esIncorrecto()">Incorrecto   </button>
     </div>
     
     
@@ -44,10 +44,10 @@
         <label for="equipo3">Equipo3:</label><input type="text" style="color:white;"><br>
         <input type="radio" id="equipo4" name="equipo" value="equipo4">
         <label for="equipo4">Equipo4:</label><input type="text" style="color:white;"><br><br> 
-        <center><input type="Button" name="" value="Escoger equipo" style="background-color:white;" onclick="cambiaColor()"></center> 
+        <center><input type="Button" name="" value="Escoger equipo" class="boton_personalizado" onclick="cambiaColor()"></center> 
         <div id="posicion"></div>
       </form>
     <br><br><br><br>
-    <input type='file' accept='text/plain' onchange='openFile(event)'><br>
+    <input type='file' class="archivo" accept='text/plain' onchange='openFile(event)'><br>
 </body>
 </html>

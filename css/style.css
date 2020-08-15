@@ -83,7 +83,13 @@ div.amarillo{
     position: absolute;
     background-color: yellow;
 }
-
+.archivo{
+    width: 550px;
+    height: 200px;
+    position: absolute;
+    top: 600px;
+    left: 30px;
+}
 
 /* botones personalizados */
 div.botones{
@@ -91,7 +97,7 @@ div.botones{
     height: 200px;
     position: absolute;
     top: 300px;
-    left: 1050px;
+    left: 1060px;
 }
 
 .boton_personalizado_incorrecto{
@@ -121,5 +127,20 @@ div.botones{
   }
   .boton_personalizado_correcto:hover{
     color: #4c9141;
+    background-color: #ffffff;
+  }
+
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
     background-color: #ffffff;
   }
