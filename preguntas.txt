@@ -13,8 +13,8 @@ Verdadero o falso:¿El cero es parte de los números naturales?
 La letra R representa a los números:___________
 La letra Q representa a los números:___________
 La letra Z representa a los números:___________
-La letra N representa a los números:__________
-La letra I representa a los números:___________
+ La letra N representa a los números:__________
+ La letra I representa a los números:___________
 ¿Cuáles son las medidas de tendencia central básicas?
 ¿Cómo se calcula la media?
 ¿Cómo se calcula la mediana?
@@ -36,7 +36,48 @@ Si 10 personas tardan 30 días en construir una casa, ¿Cuántas personas necesi
 7 personas comen 10 pizzas en 2 horas, Si hay 28 personas en una fiesta ¿Cuántas horas tardarán en comerse 10 pizzas?(Proporción inversa)
 Si un tren tarda 3 hrs en recorrer 400 km, ¿Cuánto tardará en recorrer el doble?(Proporción directa)
 Si 2 agricultores tardan 10 días en arar un campo,¿Cuánto tardarán 5 agricultores en realizar el mismo trabajo? (Proporción inversa)
-Cual es el resultado de la siguiente potencia: 13680
-Cual es la potencia de 341
+¿Cual es el resultado de la siguiente potencia: 
+¿Cual es la potencia de 
 Todo número elevado a la potencia cero es igual a:__________
 Todo número elevado a la potencia uno es igual a:__________
+¿Cuál es el resultado de la siguiente operación: 
+¿Cuál es el resultado de la siguiente operación:
+¿Cuál es el resultado de la siguiente operación: 
+¿Cuál es el resultado de la siguiente operación: 
+¿Cuál es el resultado de multiplicar:  
+¿Cuál es el resultado de dividir: 
+¿Cuál es el resultado de multiplicar: 
+¿Cuál es el resultado de dividir: 
+¿Cuál es el resultado de la siguiente operación: 
+¿Cuál es el resultado de la siguiente operación: 
+¿Cuál es el resultado de la siguiente potencia: 
+¿Cuál es el resultado de la siguiente potencia: 
+¿Cuál es el resultado de la siguiente potencia: 
+¿Simplifica el siguiente radical   
+¿Simplifica el siguiente radical  
+¿Simplifica el siguiente radical  
+¿Simplifica el siguiente radical   
+Escribe en notación científica el siguiente número: 500
+Escribe en notación científica el siguiente número: 2130000000
+Escribe en notación científica el siguiente número: 10025000
+Escribe en notación científica el siguiente número: 326000
+Escribe en notación científica el siguiente número: 0.00000102
+Escribe en notación científica el siguiente número: 0.00025
+Escribe en notación científica el siguiente número: 0.0123
+Escribe en notación científica el siguiente número: 0.1002
+¿Que es una expresión algebraica?
+¿Cuale son los 5 componentes principales de la notación algebraica?
+¿Qué es una variable?
+¿Qué es un coeficiente? 
+¿Para qué sirven los paréntesis en la notación algebraica?
+¿Cuáles son los operadores de la notación científica?
+¿Qué es el lenguaje algebraico?
+¿Para qué sirve el lenguaje algebraico?
+Dos números suman 13
+La tercera parte de un número 
+El quíntuple de un número
+El doble de un número aumentado en 7 unidades
+El cuadrado de un número 
+La mitad de un número menos su tercera parte
+La suma de los cuadrados de dos números
+El cuadrado de la diferencia de dos números 

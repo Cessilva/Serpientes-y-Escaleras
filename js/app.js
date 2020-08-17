@@ -7,6 +7,7 @@ var posEqu4=0;
 var textoglobal;
 var correcto;
 var incorrecto;
+var img = document.getElementById("imagen_pregunta");
 
 //TIRO DE DADO
 function rollDice(){
@@ -24,7 +25,7 @@ function rollDice(){
       // posEqu1=escaleras(posEqu1);
       posEqu1=serpiente(posEqu1);
       navegacion(azul,posEqu1)
-
+      
     }else if (posicion.innerHTML == "equipo2"){
       elemento.innerHTML = textoglobal[posEqu2];
       posEqu2= posEqu2+d1;
@@ -68,6 +69,7 @@ var openFile = function(event) {
       pregunta.style.cssText= 'font-size: 30px; cursor: pointer; text-align:center;';
       var elemento = document.getElementById('pregunta');
       elemento.innerHTML = text[pos];
+      
       console.log(reader.result.substring(0, 200));
     };
     reader.readAsText(input.files[0]);
@@ -92,7 +94,8 @@ function navegacion(equipo,posicion){
   var marginLeft=12;
   var marginTop=-52;
   var lado=52.5;
-  var cambio=0
+  var cambio=0;
+  
 
   // Derecha a izquierda
   if ((posicion>0 && posicion<10)||(posicion>20 && posicion<=30)||(posicion>40 && posicion<=50)||(posicion>60 && posicion<=70)||(posicion>80 && posicion<=90)){
@@ -123,7 +126,9 @@ function navegacion(equipo,posicion){
     cambio=parseInt(String(posicion).substring(0, 1));
     document.getElementById(equipo).style.marginTop= String(marginTop-(lado*cambio))+"px";
   }
+  
 }
+
 
 
 function esCorrecto(){
